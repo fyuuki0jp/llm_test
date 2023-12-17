@@ -1,0 +1,7 @@
+.env
+models
+google-cloud-sdk
+.python-version
+.DS_Store
+*.jpg
+*.png

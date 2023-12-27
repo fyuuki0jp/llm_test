@@ -1,6 +1,7 @@
 .env
 models
-google-cloud-sdk
+datasets
+git
 .python-version
 .DS_Store
 *.jpg
